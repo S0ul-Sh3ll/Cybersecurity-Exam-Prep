@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <a href="https://s0ul-sh3ll.github.io/Cybersecurity-Exam-Prep/privacy-policy.html">Privacy Policy</a> ·
+  <a href="PRIVACY.md">Privacy Policy</a> ·
   <a href="mailto:rishabhdahiya.work@gmail.com">Contact</a>
 </p>
 
@@ -72,7 +72,7 @@ Available on [Google Play](PLAY_STORE_URL) for Android phones and tablets (Andro
 ## Privacy
 
 The app has no accounts, and your study data never leaves your device. It shows Google AdMob ads,
-and you can manage ad consent in the app. Read the full [Privacy Policy](https://s0ul-sh3ll.github.io/Cybersecurity-Exam-Prep/privacy-policy.html).
+and you can manage ad consent in the app. Read the full [Privacy Policy](PRIVACY.md).
 
 ## Support
 
